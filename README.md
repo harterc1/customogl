@@ -19,14 +19,14 @@ Supported Campaigns
 
 Detour Ahead
 ------------
-3: Fixed missing safe room weapons.
-3: Tank will no longer spawn in the sewers portion of the map
-3: Dark sewers layout is no longer random
-4: Fixed missing safe room weapons.
-4: Railing added along a majority of the bridge event
-5: Fixed missing safe room weapons.
-5: Multiple Tanks disabled. Only 1 tank will spawn.
-5: Fixed inconsistent tank spawn locations
+- 3: Fixed missing safe room weapons.
+- 3: Tank will no longer spawn in the sewers portion of the map
+- 3: Dark sewers layout is no longer random
+- 4: Fixed missing safe room weapons.
+- 4: Railing added along a majority of the bridge event
+- 5: Fixed missing safe room weapons.
+- 5: Multiple Tanks disabled. Only 1 tank will spawn.
+- 5: Fixed inconsistent tank spawn locations
 
 Carried Off
 -----------
