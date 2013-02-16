@@ -14,6 +14,7 @@ Supported Campaigns
 * Dead Before Dawn 2: DC
 * Back to School
 * Haunted Forest
+* Heaven Can Wait 2
 * Arena of the Dead 2
 * Firetower Trail v2.4
 
@@ -63,7 +64,7 @@ Dead Before Dawn 2: DC
 - 4: Blocked exploit allowing survivors to skip forklift event
 - 4: Red propane tank spawn is no longer random
 - 5: Exploit Blocks
-- 5: Fixed broken distance points (converted finale from holdout to gauntlet)
+- 5: Fixed broken distance points
 - 5: Disabled multiple tanks during gauntlet. Pre-gauntlet tank depends on tank percentage.
 - 5: Removed hardcoded throwables
 
@@ -115,10 +116,38 @@ Haunted Forest
 - 4: Fixed broken nav flow (Occurred 1 out of every 3 round starts)
 - 4: Fixed broken health bonus scoring
 - 4: Removed molotov that appears in safe room sometimes
+- 4: Patched all death pits as they were no-hang/insta-death pits
+
+Heaven Can Wait 2
+-----------------
+- 1: Wooden barrier on lower level of barn no longer breakable; forces survivors to go upstairs in the barn
+- 1: Added hittable vehicles on road
+- 1: Raised hittable log near the intro so that it isn't below ground anymore
+- 1: Added more pill spawn locations
+- 2: Time at which trucks roll by and spawn panic event is no longer random
+- 2: Removed random continuous panic events
+- 2: Removed fake witch sounds
+- 2: The log crossing the river will no longer break; always triggers a panic event instead; The log breaking was a random element
+- 2: Added more pill spawn locations
+- 3: Blocked an exploit allowing survivors to get behind the map
+- 3: Added more pill spawn locations
+- 4: Survivors are forced through the construction building; alternate route is always blocked
+- 4: Added props at the top of the construction building to reduce death charges
+- 4: Increased distance points from 700 to 800 (map is long)
+- 4: Forced tank to spawn either before 35% or after 72% of the map length to avoid tanks during security camera event
+- 4: Converted hittable car near the courthouse to be no hittable (because it was broken and distracting)
+- 4: End saferoom (the train) comes 10 seconds after being called (was originally 60 seconds)
+- 4: Removed table from entrance of courthouse to prevent survivors from bypassing metal detector event
+- 4: Added more pill spawn locations
+- 5: Added more pill spawn locations
+- 5: First door during finale opens faster now to allow survivors access to the supplies behind it
+- 5: Adjusted (increased slightly) distance points for reaching the finale switch
 
 Arena of the Dead 2
 -------------------
 - 2: Tank will only spawn either before the van event or after the van event
+- 3: Railings added around the rooftop of the first building to reduce death charges
+- 3: Fences added around elevator
 - 3: Breakable wall immediately left as you get off of the elevator is now blocked to force survivors up to the roof
 - 3: Tank will only spawn before the elevator event
 - 4: Moved all pill spawn locations to the table by the radio
