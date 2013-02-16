@@ -1,16 +1,5 @@
 dead before dawn: dc
 
+map 1 : adjust safe room weapon z
 map 2 : remove hittables in beginning
 map 5 : workaround for tank getting stuck
-
-HEAVEN CAN WAIT
-;mapinfo
-;map 5 - hittable bus
-;map 5 - pills
-;map 5 - remove 1 or 2 tanks
-;map 5 - speed up gates
-;map 4 - block so they can't get over to puncahble car
-;map 3 - keep people from getting out grocery windows prematurely
-;map 2 - window can't go through
-;map 2 - spawns are far
-;map 2 - exploit over gate
