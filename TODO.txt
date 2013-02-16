@@ -4,29 +4,13 @@ map 2 : remove hittables in beginning
 map 5 : workaround for tank getting stuck
 
 HEAVEN CAN WAIT
-; mapinfo
+;mapinfo
 ;map 5 - hittable bus
-;map 4 - hittable car; 3018.661865 640.549744 -409.968750;
-;map 4 - remove table so they can't skip event
+;map 5 - pills
+;map 5 - remove 1 or 2 tanks
+;map 5 - speed up gates
 ;map 4 - block so they can't get over to puncahble car
-;map 4 - pills; 5030.237305 3550.190918 -401.968750;
-;map 4 - pills;5177.159668 1559.351074 -401.968750;
-;map 4 - map distance 700 -> 800
-;map 4 - make train come instantly
-;map 3 - health kits bottom of garage
 ;map 3 - keep people from getting out grocery windows prematurely
-;map 3 - pills -2640.031250 135.561676 -121.118668; grocery
-;map 3 - pills; -4657.027832 -3377.498779 7.031250;
-;map 3 - pills; -5161.040039 -3374.514893 285.717651;
-; map 2 - pills at 170.484741 -1515.551270 -573.585815; cemetary
-; map 2 - pills -2926.323975 -4799.397949 -455.968750; witch
-; map 2 - pills -5176.805664 -6924.722656 -563.681335; little house
-; map 2 - pills -4194.246582 -7689.811523 -632.567627;
-; map 2 tank can't spawn between 25-55 percent
-; map 2 window can't go through
-; map 2 - spawns are far
-; map 2 - remove fake witch sound
-; map 2 - exploit over gate
-; map 1 - keep gate from breaking so they have to go up in barn
-; map 1 - foliage on mountain is sticky
-; map 1 - house event inconsistent?
+;map 2 - window can't go through
+;map 2 - spawns are far
+;map 2 - exploit over gate

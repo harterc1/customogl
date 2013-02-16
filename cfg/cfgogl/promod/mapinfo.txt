@@ -1315,7 +1315,7 @@
         "end_dist"          "100.000000"
     }
 	; ====[HEAVEN CAN WAIT 2]=============================================
-	"AirCrash"
+	"aircrash"
 	{
 		"start_point"       "-2894.737061 832.790588 62.031250"
         "end_point"         "10004.405273 -3347.849121 442.031250"
@@ -1323,7 +1323,17 @@
         "start_extra_dist"  "700.000000"
         "end_dist"          "100.000000"
 	}
-	"RiverMotel"
+	"rivermotel"
+	{
+		"start_point"       "-186.529556 -9786.741211 361.911438"
+        "end_point"         "92.987526 676.283325 669.281250"
+        "start_dist"        "250.000000"
+        "start_extra_dist"  "350.000000"
+        "end_dist"          "100.000000"
+		"tank_ban_flow_min" "25"
+		"tank_ban_flow_max" "55"
+	}
+	"outskirts"
 	{
 		"start_point"       "-186.529556 -9786.741211 361.911438"
         "end_point"         "92.987526 676.283325 669.281250"
@@ -1331,23 +1341,16 @@
         "start_extra_dist"  "350.000000"
         "end_dist"          "100.000000"
 	}
-	"OutSkirts"
+	"cityhall"
 	{
 		"start_point"       "-186.529556 -9786.741211 361.911438"
         "end_point"         "92.987526 676.283325 669.281250"
         "start_dist"        "250.000000"
         "start_extra_dist"  "350.000000"
         "end_dist"          "100.000000"
+		"max_distance"      "800"
 	}
-	"CityHall"
-	{
-		"start_point"       "-186.529556 -9786.741211 361.911438"
-        "end_point"         "92.987526 676.283325 669.281250"
-        "start_dist"        "250.000000"
-        "start_extra_dist"  "350.000000"
-        "end_dist"          "100.000000"
-	}
-	"BombShelter"
+	"bombshelter"
 	{
 		"start_point"       "-186.529556 -9786.741211 361.911438"
         "end_point"         "92.987526 676.283325 669.281250"
