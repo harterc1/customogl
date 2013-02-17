@@ -49,6 +49,7 @@ Dead Before Dawn 2: DC
 - 1: Fixed readyup sticking people under the safe room
 - 1: Removed 2 of the 4 melee weapons in the small house midway through the map
 - 1: Added barricade to prevent teams from outrunning the crashing helicopter and skipping the houses
+- 2: Removed hittable dumpsters in intro area; car remains hittable
 - 2: Removed hardcoded SI and AI tank spawns during mall entrance event
 - 2: Removed forklift in warehouse to prevent survivors from using it to skip portion of map
 - 2: Removed hardcoded defib
