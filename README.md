@@ -127,6 +127,7 @@ Heaven Can Wait 2
 - 2: Time at which trucks roll by and spawn panic event is no longer random
 - 2: Removed random continuous panic events
 - 2: Removed fake witch sounds
+- 2: Tank won't spawn in the sewers or tight forested area immediately after the sewers
 - 2: The log crossing the river will no longer break; always triggers a panic event instead; The log breaking was a random element
 - 2: Added more pill spawn locations
 - 3: Blocked an exploit allowing survivors to get behind the map

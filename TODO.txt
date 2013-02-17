@@ -3,3 +3,22 @@ dead before dawn: dc
 map 1 : adjust safe room weapon z
 map 2 : remove hittables in beginning
 map 5 : workaround for tank getting stuck
+
+diescraper:
+1: more pills
+1: death spots in beginning
+2: mapinfo
+2: more pills
+2: check out end elevator kits
+3: mapinfo
+3: more pills
+3: death spots in beginning
+3: fix infinite horde
+3: saferoom ladder seems hard
+3: checkout random extra healthkit
+4: mapinfo
+4: pills
+4: patch a few death spots
+
+back to school:
+3: investigate skipping event
