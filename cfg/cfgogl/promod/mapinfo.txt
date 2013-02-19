@@ -1203,6 +1203,7 @@
         "end_dist"          "50.000000"
 		"tank_ban_flow_min" "72"
         "tank_ban_flow_max" "99"
+		"max_distance"      "600"
     }
     "jsarena204_arena"
     {
@@ -1285,7 +1286,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "300.000000"
         "end_dist"          "100.000000"
-		"max_distance"      "900"
+		"max_distance"      "800"
     }
     "l4d2_bts04_cinema"
     {
@@ -1302,7 +1303,7 @@
         "start_dist"        "100.000000"
         "start_extra_dist"  "350.000000"
         "end_dist"          "75.000000"
-		"max_distance"      "700"
+		"max_distance"      "800"
     }
     "l4d2_bts06_school"
     {
