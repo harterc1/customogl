@@ -16,3 +16,6 @@ diescraper:
 
 back to school:
 3: investigate skipping event
+
+heaven can wait:
+map 1: pills in end safe room

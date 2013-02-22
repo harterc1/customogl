@@ -129,7 +129,7 @@ Heaven Can Wait 2
 - 2: Removed random continuous panic events
 - 2: Removed fake witch sounds
 - 2: Tank won't spawn in the sewers or tight forested area immediately after the sewers
-- 2: The log crossing the river will no longer break; always triggers a panic event instead; The log breaking was a random element
+- 2: The log crossing the river will no longer break and won't trigger panic event
 - 2: Added more pill spawn locations
 - 3: Blocked an exploit allowing survivors to get behind the map
 - 3: Added more pill spawn locations
@@ -143,7 +143,6 @@ Heaven Can Wait 2
 - 4: Added more pill spawn locations
 - 5: Added more pill spawn locations
 - 5: First door during finale opens faster now to allow survivors access to the supplies behind it
-- 5: Adjusted (increased slightly) distance points for reaching the finale switch
 
 Arena of the Dead 2
 -------------------
