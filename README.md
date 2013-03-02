@@ -18,6 +18,17 @@ Supported Campaigns
 * Arena of the Dead 2
 * Firetower Trail v2.4
 
+Changes since Promod 3.2 release
+--------------------------------
+* Heaven Can Wait - Map 2 - Removed panic event when hummers drive by at the beginning
+* Heaven Can Wait - Map 2 - Removed panic event when crossing the log
+* Heaven Can Wait - Map 3 - Disabled several hittable cars in beginning alley ways
+* Heaven Can Wait - Map 3 - Removed hittable-glow from non-hittable cars in parking garage
+* Heaven Can Wait - Map 4 - Disabled hittable car next to alarm car in beginning
+* Back to School - Map 6 - Helicopter comes as soon as you hit the football field / no holdout
+* Carried Off - Map 4 - Moved the tank spawn a little farther back to give survivors time to set up
+* Dead Before Dawn - Map 2 - Repaired a fence that you could clip through
+
 Detour Ahead
 ------------
 - 3: Fixed missing safe room weapons.
