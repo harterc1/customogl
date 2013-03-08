@@ -26,8 +26,14 @@ Changes since Promod 3.2 release
 * Heaven Can Wait - Map 3 - Removed hittable-glow from non-hittable cars in parking garage
 * Heaven Can Wait - Map 4 - Disabled hittable car next to alarm car in beginning
 * Back to School - Map 6 - Helicopter comes as soon as you hit the football field / no holdout
-* Carried Off - Map 4 - Moved the tank spawn a little farther back to give survivors time to set up
+* Carried Off - Map 4 - Moved the tank spawn a little farther back to give survivors more time to set up. Tank is still triggered at the same spot.
+* Dead Before Dawn - General - Removed most of the guys voice on the loudspeaker in every map
 * Dead Before Dawn - Map 2 - Repaired a fence that you could clip through
+* Dead Before Dawn - Map 2 - Added ammo at the mall entrance event
+* Dead Before Dawn - Map 3 - Blocked off a godspot near the millionth customer event
+* Dead Before Dawn - Map 4 - Blocked off an area near forklift event that would bump up your distance points by 200 suddenly
+* Dead Before Dawn - Map 5 - Enabled early tanks
+* Dead Before Dawn - Map 5 - Added ammo pile by the finale start gate
 
 Detour Ahead
 ------------
