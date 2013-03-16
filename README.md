@@ -12,8 +12,10 @@ Supported Campaigns
 * Detour Ahead
 * Carried Off
 * Dead Before Dawn 2: DC
+* Suicide Blitz 2
 * Back to School
 * Haunted Forest
+* I Hate Mountains 2 (WIP)
 * Heaven Can Wait 2
 * Arena of the Dead 2
 * Firetower Trail v2.4
@@ -34,6 +36,9 @@ Changes since Promod 3.2 release
 * Dead Before Dawn - Map 4 - Blocked off an area near forklift event that would bump up your distance points by 200 suddenly
 * Dead Before Dawn - Map 5 - Enabled early tanks
 * Dead Before Dawn - Map 5 - Added ammo pile by the finale start gate
+* Support for Suicide Blitz
+* Suicide Blitz - Map 2 - Fixed the "Boat Event" by placing a Barrel instead of a gascan, as Promod filters out Gascans
+* Suicide Blitz - Map 5 - Removed all the grenade launcher "gimmick stuff"
 
 Detour Ahead
 ------------
@@ -86,6 +91,11 @@ Dead Before Dawn 2: DC
 - 5: Disabled multiple tanks during gauntlet. Pre-gauntlet tank depends on tank percentage.
 - 5: Removed hardcoded throwables
 
+Suicide Blitz 2
+---------------
+- 2: Fixed the "Boat Event" by placing a Barrel instead of a gascan, as Promod filters out Gascans
+- 5: Removed all the grenade launcher "gimmick stuff"
+
 Back to School
 --------------
 - 1: Tank forced to spawn after the 50% mark (Wooded area OP for infected + TNT event)
@@ -135,6 +145,19 @@ Haunted Forest
 - 4: Fixed broken health bonus scoring
 - 4: Removed molotov that appears in safe room sometimes
 - 4: Patched all death pits as they were no-hang/insta-death pits
+
+I Hate Mountains 2
+------------------
+- 1: Custom Map Distance set to 300
+- 1: Removed Dynamic-Pathing. (Non-Barricaded Path will be used)
+- 1: Removed End Saferoom Minigun
+- 2: Prevented Tank spawning before Chopper Event
+- 2: Fixed Tier2 Weapons spawning on top of Tier1 weapon in Tower
+- 3: Custom Map Distance set to 700
+
+Yama
+----
+- 2: Fixed Survivor Spawn locations caused by Versus Survivor spawns not being defined
 
 Heaven Can Wait 2
 -----------------

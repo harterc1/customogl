@@ -683,6 +683,7 @@
         "start_extra_dist"  "387.249268"
         "end_point"         "1704.728271 -8333.527344 87.642601"
         "end_dist"          "247.891632"
+		"max_distance"      "300"
     }
     "l4d_ihm02_manor"
     {
@@ -699,6 +700,7 @@
         "start_extra_dist"  "263.341949"
         "end_point"         "3271.968750 7977.582031 -2256.968750"
         "end_dist"          "335.011475"
+		"max_distance"      "700"
     }
     "l4d_ihm04_lumberyard"
     {
