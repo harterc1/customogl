@@ -929,6 +929,8 @@
         "end_point"         "1585.235596 8390.712891 -1028.968750"
         "end_dist"          "885.892273"
 		"max_distance"      "700"
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "50"
     }
     "ddg1_tower_v1_6"
     {
@@ -1330,6 +1332,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "180.000000"
+		"tank_ban_flow_min" "20"
+        "tank_ban_flow_max" "60"
     }
     "CityHall"
     {
