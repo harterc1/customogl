@@ -969,7 +969,6 @@
         "end_dist"          "142.267410"
 		"tank_ban_flow_min" "0"
         "tank_ban_flow_max" "39"
-		"max_distance"      "500"
     }
     "l4d_dbd2dc_the_mall"
     {
@@ -986,7 +985,6 @@
         "start_extra_dist"  "244.648331"
         "end_point"         "-2060.603027 6556.208496 -671.968750"
         "end_dist"          "286.359802"
-		"max_distance"      "700"
     }
     "l4d_dbd2dc_undead_center"
     {
@@ -995,7 +993,8 @@
         "start_extra_dist"  "188.167191"
         "end_point"         "-7367.650391 8434.535156 -671.968750"
         "end_dist"          "365.062012"
-		"max_distance"      "600"
+		"tank_ban_flow_min" "60"
+        "tank_ban_flow_max" "80"
     }
     "l4d_dbd2dc_new_dawn"
     {
@@ -1004,7 +1003,8 @@
         "start_extra_dist"  "306.183685"
         "end_point"         "-463.786469 876.165771 -243.441345"
         "end_dist"          "1558.433960"
-		"max_distance"      "500"
+		"tank_ban_flow_min" "40"
+        "tank_ban_flow_max" "100"
     }
     "uf1_boulevard"
     {
