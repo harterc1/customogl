@@ -593,7 +593,6 @@
         "start_extra_dist"  "566.889465"
         "end_point"         "-2013.103882 -3279.305176 144.031250"
         "end_dist"          "276.152161"
-		"max_distance"      "500"
     }
     "cdta_02road"
     {
@@ -612,13 +611,14 @@
         "end_dist"          "245.495361"
         "tank_ban_flow_min" "55"
         "tank_ban_flow_max" "78"
-		"max_distance"      "800"
     }
     "cdta_04onarail"
     {
         "start_point"       "-11160.266602 2500.985107 656.031250"
         "start_dist"        "248.178223"
         "start_extra_dist"  "251.028473"
+		"end_point"			"13739.563477 7775.639648 1054.943604"
+		"end_dist"			"191.200378"
         "tank_ban_flow_min" "0"
         "tank_ban_flow_max" "28"
     }
@@ -629,9 +629,8 @@
         "start_extra_dist"  "269.938385"
         "end_point"         "-12561.050781 -11283.779297 985.953308"
         "end_dist"          "245.495361"
-        "tank_ban_flow_min" "1"
+        "tank_ban_flow_min" "0"
         "tank_ban_flow_max" "70"
-		"max_distance"      "600"
     }
     "l4d_deathaboard01_prison"
     {
@@ -919,7 +918,8 @@
         "start_extra_dist"  "123.490318"
         "end_point"         "-3424.100586 1176.238281 440.031250"
         "end_dist"          "389.248535"
-		"max_distance"      "600"
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "65"
     }
     "hf04_escape"
     {
