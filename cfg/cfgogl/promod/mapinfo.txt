@@ -1258,8 +1258,6 @@
         "end_dist"          "50.000000"
         "tank_ban_flow_min" "1"
         "tank_ban_flow_max" "50"
-		"max_distance"      "500"
-		
     }
     "l4d2_bts02_station"
     {
@@ -1270,7 +1268,7 @@
         "end_dist"          "50.000000"
         "tank_ban_flow_min" "1"
         "tank_ban_flow_max" "40"
-		"max_distance"      "800"
+	"max_distance"      "800"
     }
     "l4d2_bts03_town"
     {
@@ -1287,7 +1285,7 @@
         "start_dist"        "100.000000"
         "start_extra_dist"  "250.000000"
         "end_dist"          "100.000000"
-		"max_distance"      "500"
+	"max_distance"      "600"
     }
     "l4d2_bts05_church"
     {
@@ -1296,7 +1294,7 @@
         "start_dist"        "100.000000"
         "start_extra_dist"  "350.000000"
         "end_dist"          "75.000000"
-        "max_distance"      "600"
+        "max_distance"      "700"
     }
     "l4d2_bts06_school"
     {
@@ -1305,7 +1303,7 @@
         "start_dist"        "250.000000"
         "start_extra_dist"  "350.000000"
         "end_dist"          "100.000000"
-		"max_distance"      "700"
+	"max_distance"      "900"
     }
     "AirCrash"
     {
