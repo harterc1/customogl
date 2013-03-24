@@ -977,6 +977,8 @@
         "start_extra_dist"  "577.908813"
         "end_point"         "137.894608 5129.338867 -637.909546"
         "end_dist"          "464.308899"
+		"tank_ban_flow_min" "53"
+        "tank_ban_flow_max" "71"
     }
     "l4d_dbd2dc_clean_up"
     {
