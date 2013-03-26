@@ -784,6 +784,8 @@
         "start_extra_dist"  "159.655685"
         "end_point"         "3538.319580 -2976.031250 29.974674"
         "end_dist"          "245.566330"
+		"tank_ban_flow_min" "73"
+        "tank_ban_flow_max" "83"
     }
     "cwm4_building"
     {
@@ -967,8 +969,8 @@
         "start_extra_dist"  "357.132141"
         "end_point"         "2948.021729 7602.731445 -604.782043"
         "end_dist"          "142.267410"
-		"tank_ban_flow_min" "0"
-        "tank_ban_flow_max" "39"
+		"tank_ban_flow_min" "72"
+        "tank_ban_flow_max" "74"
     }
     "l4d_dbd2dc_the_mall"
     {
@@ -1270,7 +1272,7 @@
         "end_dist"          "50.000000"
         "tank_ban_flow_min" "1"
         "tank_ban_flow_max" "40"
-	"max_distance"      "800"
+		"max_distance"      "800"
     }
     "l4d2_bts03_town"
     {
@@ -1287,7 +1289,7 @@
         "start_dist"        "100.000000"
         "start_extra_dist"  "250.000000"
         "end_dist"          "100.000000"
-	"max_distance"      "600"
+		"max_distance"      "600"
     }
     "l4d2_bts05_church"
     {
@@ -1305,7 +1307,7 @@
         "start_dist"        "250.000000"
         "start_extra_dist"  "350.000000"
         "end_dist"          "100.000000"
-	"max_distance"      "900"
+		"max_distance"      "900"
     }
     "AirCrash"
     {
@@ -1324,6 +1326,7 @@
         "end_dist"          "50.000000"
         "tank_ban_flow_min" "20"
         "tank_ban_flow_max" "55"
+		"max_distance"      "700"
     }
     "OutSkirts"
     {
