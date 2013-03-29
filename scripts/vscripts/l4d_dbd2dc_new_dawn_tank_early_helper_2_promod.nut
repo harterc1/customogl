@@ -23,7 +23,7 @@ function TeleTank()
 			tank.SetOrigin(pos);
 
 			// Kill the timer that keeps running this script
-			EntFire( "tank_early_timer", "Disable", 0 );
+			EntFire( "tank_early_timer_2", "Disable", 0 );
 		}
 	}
 }
