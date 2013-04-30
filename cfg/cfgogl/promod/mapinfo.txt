@@ -1344,8 +1344,8 @@
         "start_dist"        "180.000000"
         "start_extra_dist"  "320.000000"
         "end_dist"          "50.000000"
-        "tank_ban_flow_min" "35"
-        "tank_ban_flow_max" "72"
+        "tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "35"
         "max_distance"      "800"
     }
     "BombShelter"
