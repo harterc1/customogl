@@ -10,7 +10,7 @@
 		{
 			"tank_min"	"10"
 			"tank_max"	"35"
-			"witch_min"	"55"
+			"witch_min"	"75"
 			"witch_max"	"90"
 		}
 	}
