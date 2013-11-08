@@ -1146,6 +1146,8 @@
         "start_extra_dist"  "1489.374390"
         "end_point"         "-2698.415771 -4883.087402 96.336136"
         "end_dist"          "321.482483"
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "25"
     }
     "plaza_espana"
     {
@@ -1408,8 +1410,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "450.000000"
         "end_dist"          "50.000000"
-		"tank_ban_flow_min" "40"
-        "tank_ban_flow_max" "100"
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "75"
 		"max_distance"      "500"
     }
 	"damitdc3"
