@@ -1450,8 +1450,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "125.000000"
         "end_dist"          "75.000000"
-		"tank_ban_flow_min" "50"
-        "tank_ban_flow_max" "85"
+		"tank_ban_flow_min" "52"
+        "tank_ban_flow_max" "88"
 		"max_distance"      "600"
 	}
 	"l4d_tbm_3"
@@ -1473,7 +1473,7 @@
         "start_extra_dist"  "300.000000"
         "end_dist"          "75.000000"
 		"tank_ban_flow_min" "0"
-        "tank_ban_flow_max" "45"
+        "tank_ban_flow_max" "25"
 		"max_distance"      "700"
 	}
 	"l4d_tbm_5"
@@ -1483,7 +1483,7 @@
         "start_dist"        "75.000000"
         "start_extra_dist"  "250.000000"
         "end_dist"          "100.000000"
-		"tank_ban_flow_min" "60"
+		"tank_ban_flow_min" "50"
         "tank_ban_flow_max" "100"
 		"max_distance"      "600"
 	}
